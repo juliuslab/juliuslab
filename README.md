@@ -13,7 +13,7 @@
 - 🗃️ For Databases using MariaDB
 - 🔍 I use Visual Studio/Code, Atom to edit Code 
 - 📟 Basic knowledge of HTML and CSS
-- 📷 I use Adope Lightroom/Photoshop and DaVinci Resolve for Photo/Video Projects 
+- 📷 I use Adobe Lightroom/Photoshop and DaVinci Resolve for Photo/Video Projects 
  
 
 
