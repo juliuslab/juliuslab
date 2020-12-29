@@ -2,7 +2,9 @@
 
 </h3>
 <p align="center">
-  <a href="https://julius-noll.de">Homepage(Coming-Soon)</a> 
+  <a href="https://julius-noll.de">Homepage(Coming-Soon),</a> 
+  <a href="https://www.linkedin.com/in/julius-noll/">LinkedIn</a> 
+  
 </p>
 
 💻 I am Julius I'm doing a computer science education
