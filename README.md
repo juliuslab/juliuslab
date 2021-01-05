@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning linux-shell 
 - 🐋 Containerization using Docker
 - 🗃️ For Databases using MariaDB
+- 📫 I use the Mailcow-Project for my Mailserver 
 - 🔍 I use Visual Studio/Code, Atom to edit Code 
 - 📟 Basic knowledge of HTML and CSS
 - 📷 I use Adobe Lightroom/Photoshop and DaVinci Resolve for Photo/Video Projects 
