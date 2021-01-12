@@ -7,7 +7,8 @@
   
 </p>
 
-💻 I am Julius I'm doing a computer science education
+💻 Hello my name is Julius, <br>
+I am 19 years young and I am doing an apprenticeship as an IT specialist in Stuttgart(Germany). I am interested in new technology and photography. Especially I like to build up new technical infrastructure. I show my self taken photos on the following homepage:(Coming-Soon)
 
 - 🔭 I’m currently working on my hackintosh 
 - 🌱 I’m currently learning linux-shell 
